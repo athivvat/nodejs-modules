@@ -1,3 +1,3 @@
 # NodeJS Modules
 ###Authentication
-+ [Passportjs](http://passportjs.org/) :  authentication middleware for Node
++ [Passportjs](http://passportjs.org/) :  Authentication middleware for Node
