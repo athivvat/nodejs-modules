@@ -5,3 +5,9 @@
 
 ###Routing
 + [path-to-regexp](https://www.npmjs.com/package/path-to-regexp) :  Turn an Express-style path string such as /user/:name into a regular expression.
+
+###HTML Template Language
++ [jade](https://www.npmjs.com/package/jade) A clean, whitespace-sensitive template language for writing HTML
+
+###Promises
++ [bluebird](https://www.npmjs.com/package/bluebird) Full featured Promises/A+ implementation with exceptionally good performance
