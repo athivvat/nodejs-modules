@@ -8,6 +8,10 @@
 
 ###HTML Template Language
 + [jade](https://www.npmjs.com/package/jade) A clean, whitespace-sensitive template language for writing HTML
++ [ejs](https://www.npmjs.com/package/ejs) Embedded JavaScript templates
 
 ###Promises
 + [bluebird](https://www.npmjs.com/package/bluebird) Full featured Promises/A+ implementation with exceptionally good performance
+
+###Compressor
++ [uglify-js](https://www.npmjs.com/package/uglify-js) JavaScript parser, mangler/compressor and beautifier toolkit
