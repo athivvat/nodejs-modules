@@ -15,3 +15,6 @@
 
 ###Compressor
 + [uglify-js](https://www.npmjs.com/package/uglify-js) JavaScript parser, mangler/compressor and beautifier toolkit
+
+###Session
++ [Connect-flash](https://github.com/jaredhanson/connect-flash) The flash is a special area of the session used for storing messages.
