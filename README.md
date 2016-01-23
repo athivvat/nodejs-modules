@@ -1,6 +1,9 @@
 # Node Modules
 ###Authentication
 + [Passportjs](http://passportjs.org/) :  Authentication middleware for Node
++ [passport-facebook](https://github.com/jaredhanson/passport-facebook) Facebook authentication strategy for Passport and Node.js.
++ [passport-twitter](Twitter authentication strategy for Passport and Node.js.) Twitter authentication strategy for Passport and Node.js.
++ [passport-google](https://github.com/jaredhanson/passport-google) Google (OpenID) authentication strategy for Passport and Node.js.
 + [express-sessions](https://www.npmjs.com/package/express-sessions) : ExpressJS MongoDB/Redis Session Storage
 + [Bcrypt-nodejs](https://www.npmjs.com/package/bcrypt-nodejs) A native JS bcrypt library for NodeJS. Gives us the ability to hash the password.
 
