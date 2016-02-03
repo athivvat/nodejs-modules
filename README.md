@@ -34,3 +34,6 @@
 
 ###Language
 + [node-localize](https://github.com/dfellis/node-localize) GNU gettext-inspired (but not conformant) localization library for Node.js
+
+###Form
++ [Formidable](https://github.com/felixge/node-formidable) A node.js module for parsing form data, especially file uploads.
