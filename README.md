@@ -28,3 +28,6 @@
 
 ###Security
 + [Validatorjs](https://www.npmjs.com/package/validatorjs) The validatorjs library makes data validation in JavaScript very easy in both the browser and Node.js. This library was inspired by Laravel framework's Validator.
+
+###Email
++ [Nodemailer](http://nodemailer.com/) Basically a module that gives you the ability to easily send emails when programming in Node.js.
