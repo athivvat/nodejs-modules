@@ -31,3 +31,6 @@
 
 ###Email
 + [Nodemailer](http://nodemailer.com/) Basically a module that gives you the ability to easily send emails when programming in Node.js.
+
+###Language
++ [node-localize](https://github.com/dfellis/node-localize) GNU gettext-inspired (but not conformant) localization library for Node.js
