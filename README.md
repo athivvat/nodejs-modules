@@ -1,4 +1,10 @@
 # Node Modules
+###Framework
++ [Express](http://expressjs.com/) Fast, unopinionated, minimalist web framework for Node.js
+
+###Automate tasks
++ [grunt](http://gruntjs.com/) The JavaScript Task Runner.
+
 ###Authentication
 + [Passportjs](http://passportjs.org/) :  Authentication middleware for Node
 + [passport-facebook](https://github.com/jaredhanson/passport-facebook) Facebook authentication strategy for Passport and Node.js.
