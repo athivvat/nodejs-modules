@@ -47,3 +47,7 @@
 ###Cache
 + [node-cache](https://github.com/tcs-de/nodecache) Simple and fast NodeJS internal caching. Node internal in memory cache like memcached.
 + [cacher](https://github.com/addisonj/node-cacher) A memcached backed http cache in the form of express middleware
++ 
+###Database
++ [mongoose](http://mongoosejs.com/) Mongoose is a MongoDB object modeling tool designed to work in an asynchronous environment.
++ [mongoose-simple-random](https://www.npmjs.com/package/mongoose-simple-random) Simple and easy-to-use NodeJS Mongoose Schema plugin to pull random documents.
