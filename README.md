@@ -48,7 +48,7 @@
 ###Cache
 + [node-cache](https://github.com/tcs-de/nodecache) Simple and fast NodeJS internal caching. Node internal in memory cache like memcached.
 + [cacher](https://github.com/addisonj/node-cacher) A memcached backed http cache in the form of express middleware
-
++ [Redis](http://redis.io/) An open source (BSD licensed), in-memory data structure store, used as database, cache and message broker.
 
 ###Database
 + [mongoose](http://mongoosejs.com/) Mongoose is a MongoDB object modeling tool designed to work in an asynchronous environment.
