@@ -4,6 +4,7 @@
 
 ###Automate tasks
 + [grunt](http://gruntjs.com/) The JavaScript Task Runner.
++ [gulp](http://gulpjs.com/) Automate and enhance your workflow.
 
 ###Authentication
 + [Passportjs](http://passportjs.org/) :  Authentication middleware for Node
