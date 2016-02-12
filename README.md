@@ -44,6 +44,7 @@
 
 ###Form
 + [Formidable](https://github.com/felixge/node-formidable) A node.js module for parsing form data, especially file uploads.
++ [fileupload](https://github.com/domharrington/fileupload) Easy file uploading in Node.JS
 
 ###Cache
 + [node-cache](https://github.com/tcs-de/nodecache) Simple and fast NodeJS internal caching. Node internal in memory cache like memcached.
