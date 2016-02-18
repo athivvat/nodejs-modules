@@ -27,6 +27,7 @@
 
 ###Promises
 + [bluebird](https://www.npmjs.com/package/bluebird) Full featured Promises/A+ implementation with exceptionally good performance.
++ [es6-promise](https://www.npmjs.com/package/es6-promise) A lightweight library that provides tools for organizing asynchronous code
 
 ###Compressor
 + [uglify-js](https://www.npmjs.com/package/uglify-js) JavaScript parser, mangler/compressor and beautifier toolkit.
