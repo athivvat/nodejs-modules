@@ -25,7 +25,7 @@
 + [ejs](https://www.npmjs.com/package/ejs) Embedded JavaScript templates.
 + [Handlebars](http://handlebarsjs.com/) Handlebars provides the power necessary to let you build semantic templates effectively with no frustration. 
 
-###Promises
+###Asynchronous
 + [bluebird](https://www.npmjs.com/package/bluebird) Full featured Promises/A+ implementation with exceptionally good performance.
 + [es6-promise](https://www.npmjs.com/package/es6-promise) A lightweight library that provides tools for organizing asynchronous code
 
