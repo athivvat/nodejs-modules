@@ -56,3 +56,6 @@
 ###Database
 + [mongoose](http://mongoosejs.com/) Mongoose is a MongoDB object modeling tool designed to work in an asynchronous environment.
 + [mongoose-simple-random](https://www.npmjs.com/package/mongoose-simple-random) Simple and easy-to-use NodeJS Mongoose Schema plugin to pull random documents.
+
+###Mathematics
++ [mathjax-node](https://github.com/mathjax/MathJax-node) Beautiful math in all browsers
