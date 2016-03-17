@@ -25,6 +25,7 @@
 + [ejs](https://www.npmjs.com/package/ejs) Embedded JavaScript templates.
 + [Handlebars](http://handlebarsjs.com/) Handlebars provides the power necessary to let you build semantic templates effectively with no frustration. 
 + [consolidate.js](https://github.com/tj/consolidate.js/) Template engine consolidation library for node.js
++ [nunjucks](https://mozilla.github.io/nunjucks/) A rich and powerful templating language for JavaScript.
 
 ###Asynchronous
 + [bluebird](https://www.npmjs.com/package/bluebird) Full featured Promises/A+ implementation with exceptionally good performance.
