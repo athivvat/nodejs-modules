@@ -61,3 +61,6 @@
 
 ###Mathematics
 + [mathjax-node](https://github.com/mathjax/MathJax-node) Beautiful math in all browsers
+
+###Social Media
++ [twitter](https://www.npmjs.com/package/twitter) Twitter API client library for node.js
