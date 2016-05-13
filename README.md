@@ -50,6 +50,7 @@
 + [Formidable](https://github.com/felixge/node-formidable) A node.js module for parsing form data, especially file uploads.
 + [fileupload](https://github.com/domharrington/fileupload) Easy file uploading in Node.JS
 + [validator](https://github.com/chriso/validator.js) String validation and sanitization
++ [Multer](https://github.com/expressjs/multer) Multer is a node.js middleware for handling multipart/form-data, which is primarily used for uploading files. It is written on top of busboy for maximum efficiency.
 
 ###Cache
 + [node-cache](https://github.com/tcs-de/nodecache) Simple and fast NodeJS internal caching. Node internal in memory cache like memcached.
