@@ -66,3 +66,6 @@
 
 ###Social Media
 + [twitter](https://www.npmjs.com/package/twitter) Twitter API client library for node.js
+
+###Image Processor 
++ [lwip](https://github.com/EyalAr/lwip) Light Weight Image Processor for NodeJS
