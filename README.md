@@ -69,3 +69,4 @@
 
 ###Image Processor 
 + [lwip](https://github.com/EyalAr/lwip) Light Weight Image Processor for NodeJS
++ [jimp](https://github.com/oliver-moran/jimp) An image processing library written entirely in JavaScript for Node, with zero external or native dependencies.
