@@ -76,3 +76,6 @@
 + [gulp-minify-css ](https://github.com/scniro/gulp-clean-css) Minify css with clean-css.
 + [gulp-autoprefixer](https://github.com/sindresorhus/gulp-autoprefixer) Prefix CSS
 + [gulp-rename](https://github.com/hparra/gulp-rename) Rename files
+
+###Others
++ [slapp](https://www.npmjs.com/package/slapp) A module for Slack App integrations
