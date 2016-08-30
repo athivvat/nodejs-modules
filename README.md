@@ -51,6 +51,7 @@
 + [fileupload](https://github.com/domharrington/fileupload) Easy file uploading in Node.JS
 + [validator](https://github.com/chriso/validator.js) String validation and sanitization
 + [Multer](https://github.com/expressjs/multer) Multer is a node.js middleware for handling multipart/form-data, which is primarily used for uploading files. It is written on top of busboy for maximum efficiency.
++ [valid-url](https://www.npmjs.com/package/valid-url) URI validation functions 
 
 ###Cache
 + [node-cache](https://github.com/tcs-de/nodecache) Simple and fast NodeJS internal caching. Node internal in memory cache like memcached.
